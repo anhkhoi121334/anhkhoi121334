@@ -1,11 +1,12 @@
 <!-- 3D Particle Background Header -->
+<!-- Note: JavaScript animation works in browsers but not in GitHub's markdown preview -->
 <div style="position: relative; width: 100%; height: 300px; overflow: hidden; border-radius: 10px; margin-bottom: 2rem; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);">
   <canvas id="particleCanvas" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></canvas>
   <div style="position: relative; z-index: 2; padding: 2rem; text-align: center; color: white; text-shadow: 0 0 10px rgba(0,0,0,0.5);">
     <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Hi there 👋, I'm Khôi</h1>
     <p style="font-size: 1.5rem; margin-top: 0; opacity: 0.9;">Frontend Developer | React Enthusiast</p>
     <div style="margin-top: 1rem;">
-      <a href="https://linkedin.com/in/your-linkedin" style="margin: 0 5px;">
+      <a href="https://linkedin.com/in/anhkhoi121334" style="margin: 0 5px;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <a href="mailto:khoi21007@gmail.com" style="margin: 0 5px;">
@@ -14,6 +15,9 @@
       <a href="https://github.com/anhkhoi121334" style="margin: 0 5px;">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
+    </div>
+    <div style="margin-top: 1rem;">
+      <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     </div>
   </div>
 </div>
