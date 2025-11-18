@@ -1,107 +1,165 @@
-<!-- LuongAnhKhoi -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kh%C3%B4i;Frontend+Developer+%7C+React+Enthusiast" alt="Typing SVG" />
 
-<h2 align="center">👋 Hi, I'm Khôi – Frontend Developer (ReactJS)</h2>
+  <p align="center">
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/anhkhoi121334">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<p align="center">
-  Sinh viên mới tốt nghiệp, định hướng phát triển thành Web Frontend Developer.<br/>
-  Mình thích xây dựng các website thương mại điện tử, landing page và giao diện<br/>
-  người dùng đẹp – dễ dùng – tối ưu trải nghiệm.
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
 
-<br>
-
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
-<br>
-
-<!-- https://simpleicons.org/ -->
-
-<span><img src="https://img.shields.io/badge/HTML5-0f172a?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-0f172a?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-0f172a?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-0f172a?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Hooks-0f172a?logo=react&logoColor=61DAFB" alt="React Hooks" title="React Hooks" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-0f172a?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js (basic)" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-0f172a?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-0f172a?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js (basic)" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-0f172a?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express (basic)" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/REST%20API-0f172a?logo=postman&logoColor=FF6C37" alt="REST API" title="REST API (basic)" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-0f172a?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-0f172a?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-0f172a?logo=visual-studio-code&logoColor=007ACC" alt="VSCode logo" title="VS Code" height="25" /></span>
+  <p align="center">
+    Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
+    Chuyên xây dựng các ứng dụng web responsive, tối ưu trải nghiệm người dùng và hiệu suất cao.<br/>
+    Luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng phát triển.
+  </p>
+</div>
 
 <br>
 
-<h2 align="center">📌 Featured Projects 📌</h2>
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<div align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+### ⚙️ Backend & Tools
+<div align="left">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 <br>
 
-<!-- Sneaker Store -->
-<ul>
-  <li>
-    <strong>🛍️ Sneaker Store – Website Bán Giày Online</strong><br/>
-    E-commerce mini website với các chức năng cơ bản: xem sản phẩm, chi tiết, giỏ hàng, đăng nhập/đăng ký, đặt hàng và giao diện responsive.<br/>
-    <strong>Tech:</strong> ReactJS, TailwindCSS, Zustand, REST API, Node.js (basic)<br/>
-    <strong>GitHub:</strong> <a href="https://github.com/anhkhoi121334/duancanhan2" target="_blank">repo</a> •
-    <strong>Demo:</strong> <a href="https://elegant-sundae-416b3f.netlify.app/" target="_blank">view</a>
-  </li>
-  <br/>
-  <li>
-    <strong>💻 E-commerce Electronics – Website Bán Hàng Điện Tử</strong><br/>
-    Website bán hàng với luồng xem sản phẩm, chi tiết, giỏ hàng và quản lý đơn hàng đơn giản. Tách riêng Frontend và Backend.<br/>
-    <strong>Tech:</strong> ReactJS, TailwindCSS, Zustand, Node.js, Express, REST API<br/>
-    <strong>GitHub FE:</strong> <a href="https://github.com/anhkhoi121334/my-phim/tree/master/font-end" target="_blank">frontend repo</a> •
-    <strong>GitHub BE:</strong> <a href="https://github.com/anhkhoi121334/my-phim/tree/master/back-end" target="_blank">backend repo</a>
-  </li>
-  <br/>
-  <li>
-    <strong>🍹 GreenZone – Drinks Ordering System (Frontend Leader)</strong><br/>
-    Ứng dụng đặt đồ uống đa nền tảng, tham gia cùng team 5 người và đạt Giải Nhất cuộc thi Khởi nghiệp Du lịch TP.HCM & ĐBSCL 2024 (vai trò làm frontend).<br/>
-    <em>Project học thuật – code không public hoặc sẽ cập nhật sau.</em>
-  </li>
-</ul>
-
-<br>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<br>
+## 🚀 Featured Projects
 
 <div align="center">
-  <a href="#" title="LuongAnhKhoi">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoi121334&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0f172a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <h3>My Recent Works</h3>
+  <p>Here are a few projects I've worked on recently. Want to see more? <a href="mailto:your-email@example.com">Email me</a>.</p>
+</div>
+
+### 🛍️ Sneaker Store – E-commerce Website
+
+[![Sneaker Store](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://elegant-sundae-416b3f.netlify.app/)
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/duancanhan2)
+
+A modern e-commerce platform for sneaker enthusiasts with full shopping cart functionality, user authentication, and responsive design.
+
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API
+- **Features**:
+  - Product catalog with filtering and search
+  - Shopping cart and checkout process
+  - User authentication and order history
+  - Responsive design for all devices
+
+---
+
+### 💻 E-commerce Electronics Store
+
+[![GitHub FE](https://img.shields.io/badge/Frontend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/font-end)
+[![GitHub BE](https://img.shields.io/badge/Backend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/back-end)
+
+A full-stack e-commerce solution for electronic products with separate frontend and backend architecture.
+
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB
+- **Features**:
+  - Product management system
+  - Shopping cart functionality
+  - User authentication
+  - Order processing system
+
+---
+
+### 🍹 GreenZone – Drinks Ordering System
+
+[![Award](https://img.shields.io/badge/🏆-1st_Place_🏆-FFD700?style=for-the-badge)](https://example.com)
+
+A multi-platform drinks ordering application developed as part of a team of 5, which won 1st place in the Ho Chi Minh City & Mekong Delta Tourism Startup Competition 2024.
+
+- **Role**: Frontend Team Lead
+- **Tech Stack**: React Native, Redux, Firebase
+- **Achievements**:
+  - Led frontend development
+  - Implemented real-time order tracking
+  - Designed intuitive user interfaces
+  - Optimized app performance
+
+*Academic project - Code not publicly available*
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhkhoi121334&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="#" title="LuongAnhKhoi">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=anhkhoi121334&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi121334&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoi121334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+  <a href="https://github.com/anhkhoi121334">
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=anhkhoi121334&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
   </a>
 </div>
 
 <br clear="both"/>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-
-<br>
+## 🌐 Let's Connect
 
 <div align="center">
-  <!-- Thay link Facebook / Email của bạn vào đây -->
-  <a href="https://facebook.com/" target="blank">
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+  
+  <a href="mailto:khoi21007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/Iamkhoicute.2004" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/anhkhoi121334" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <p>📫 How to reach me: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
+  
+  <p>💼 Let's work together on your next project!</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <p>Last Updated: November 18, 2025</p>
+</div>
+  <a href="https://www.facebook.com/Iamkhoicute.2004" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="mailto:your.email@example.com" target="top">
+  <a href="mailto:khoi21007@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
