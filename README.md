@@ -56,28 +56,12 @@
         values="700,55; 750,25; 800,55; 750,85; 700,55" dur="14s" repeatCount="indefinite"/>
     </use>
     
-    <!-- Connecting Lines Animation -->
-    <g opacity="0.3">
-      <line x1="100" y1="50" x2="200" y2="30" stroke="#4facfe" stroke-width="1">
-        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
-      </line>
-      <line x1="200" y1="30" x2="300" y2="70" stroke="#00f2fe" stroke-width="1">
-        <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite"/>
-      </line>
-      <line x1="300" y1="70" x2="400" y2="40" stroke="#5ee7df" stroke-width="1">
-        <animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite"/>
-      </line>
-      <line x1="500" y1="60" x2="600" y2="25" stroke="#667eea" stroke-width="1">
-        <animate attributeName="opacity" values="0.1;0.3;0.1" dur="6s" repeatCount="indefinite"/>
-      </line>
-    </g>
-    
     <!-- Text Content -->
     <text x="400" y="80" text-anchor="middle" fill="white" font-size="28" font-weight="bold" font-family="Arial">
       Hi there 👋, I'm Khôi
     </text>
     <text x="400" y="110" text-anchor="middle" fill="white" font-size="16" opacity="0.9" font-family="Arial">
-      Frontend Developer | React Enthusiast
+      Frontend Developer (ReactJS)
     </text>
   </svg>
 
@@ -102,9 +86,9 @@
 </div>
 
 <p align="center">
-  Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
-  Chuyên xây dựng các ứng dụng web responsive, tối ưu trải nghiệm người dùng và hiệu suất cao.<br/>
-  Luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng phát triển.
+  Sinh viên mới tốt nghiệp, định hướng theo mảng Frontend Development.<br/>
+  Mình tập trung vào xây dựng giao diện web hiện đại với ReactJS, responsive và dễ sử dụng.<br/>
+  Luôn chủ động học hỏi, thực hành qua các dự án cá nhân để nâng cao kỹ năng.
 </p>
 
 <br>
@@ -141,14 +125,14 @@
 [![Sneaker Store](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://elegant-sundae-416b3f.netlify.app/)
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/duancanhan2)
 
-A modern e-commerce platform for sneaker enthusiasts with full shopping cart functionality, user authentication, and responsive design.
+Mini website thương mại điện tử bán giày, dùng để luyện tập ReactJS và quản lý state.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API  
 - **Features**:
-  - Product catalog with filtering and search
-  - Shopping cart and checkout process
-  - User authentication and order history
-  - Responsive design for all devices
+  - Xem danh sách và chi tiết sản phẩm  
+  - Thêm/xoá sản phẩm trong giỏ hàng  
+  - Đăng nhập / đăng ký người dùng (luồng cơ bản)  
+  - Giao diện responsive trên nhiều thiết bị  
 
 ---
 
@@ -156,30 +140,30 @@ A modern e-commerce platform for sneaker enthusiasts with full shopping cart fun
 [![GitHub FE](https://img.shields.io/badge/Frontend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/font-end)
 [![GitHub BE](https://img.shields.io/badge/Backend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/back-end)
 
-A full-stack e-commerce solution for electronic products with separate frontend and backend architecture.
+Dự án web bán hàng điện tử, tách riêng Frontend và Backend để luyện tập mô hình fullstack.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB  
 - **Features**:
-  - Product management system
-  - Shopping cart functionality
-  - User authentication
-  - Order processing system
+  - Hiển thị danh sách & chi tiết sản phẩm  
+  - Giỏ hàng cơ bản  
+  - Đăng nhập / đăng ký (cơ bản)  
+  - Tạo và lưu đơn hàng phía backend  
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhkhoi121334&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi121334&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoi121334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
   <a href="https://github.com/anhkhoi121334">
@@ -192,7 +176,7 @@ A full-stack e-commerce solution for electronic products with separate frontend 
 ## 🌐 Let's Connect
 
 <div align="center">
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+  <p>Nếu anh/chị quan tâm đến các dự án của em hoặc cần hỗ trợ Frontend, em rất sẵn sàng trao đổi thêm ạ.</p>
   
   <a href="mailto:khoi21007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -203,15 +187,6 @@ A full-stack e-commerce solution for electronic products with separate frontend 
   <a href="https://github.com/anhkhoi121334" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-  <p>📫 How to reach me: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
-  
-  <p>💼 Let's work together on your next project!</p>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <p>Last Updated: November 18, 2025</p>
-</div>
