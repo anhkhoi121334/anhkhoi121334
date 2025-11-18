@@ -47,14 +47,6 @@
 
 </div>
 
-<p align="center">
-  Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
-  Chuyên xây dựng các ứng dụng web responsive, tối ưu trải nghiệm người dùng và hiệu suất cao.<br/>
-  Luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng phát triển.
-</p>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
