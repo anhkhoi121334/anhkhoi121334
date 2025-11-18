@@ -25,9 +25,9 @@
 </div>
 
 <p align="center">
-  Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
-  Chuyên xây dựng các ứng dụng web responsive, tối ưu trải nghiệm người dùng và hiệu suất cao.<br/>
-  Luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng phát triển.
+  A recent graduate with a strong passion for building modern and intuitive web interfaces.<br/>
+  Focused on developing responsive web applications with optimized user experience and performance.<br/>
+  Always eager to learn new technologies and improve my development skills.
 </p>
 
 <br>
