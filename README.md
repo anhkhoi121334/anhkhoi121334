@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Typing Animation Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kh%C3%B4i;Frontend+Developer+%7C+React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kh%C3%B4i;Frontend+Developer+%7C+React" alt="Typing SVG" />
 
   <!-- Social Links -->
   <p>
