@@ -1,102 +1,105 @@
-<!-- 3D Particle Background Header -->
-<!-- Note: JavaScript animation works in browsers but not in GitHub's markdown preview -->
-<div style="position: relative; width: 100%; height: 300px; overflow: hidden; border-radius: 10px; margin-bottom: 2rem; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);">
-  <canvas id="particleCanvas" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></canvas>
-  <div style="position: relative; z-index: 2; padding: 2rem; text-align: center; color: white; text-shadow: 0 0 10px rgba(0,0,0,0.5);">
-    <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Hi there 👋, I'm Khôi</h1>
-    <p style="font-size: 1.5rem; margin-top: 0; opacity: 0.9;">Frontend Developer | React Enthusiast</p>
-    <div style="margin-top: 1rem;">
-      <a href="https://linkedin.com/in/anhkhoi121334" style="margin: 0 5px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:khoi21007@gmail.com" style="margin: 0 5px;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://github.com/anhkhoi121334" style="margin: 0 5px;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </div>
-    <div style="margin-top: 1rem;">
-      <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    </div>
-  </div>
+<!-- GitHub Compatible Header with CSS Animation -->
+<div align="center">
+  
+  <!-- Animated SVG Background -->
+  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+      </linearGradient>
+      
+      <!-- Particle Animation -->
+      <circle id="particle" r="2" fill="#4facfe" opacity="0.8">
+        <animateMotion dur="20s" repeatCount="indefinite">
+          <path d="M50,50 Q400,20 750,50 T750,150 Q400,180 50,150 T50,50"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </defs>
+    
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="url(#bgGradient)" rx="10"/>
+    
+    <!-- Animated Particles -->
+    <use href="#particle" transform="translate(0,0)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="0,0; 50,30; 100,0; 50,-30; 0,0" dur="8s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#00f2fe" transform="translate(100,50)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="100,50; 150,20; 200,50; 150,80; 100,50" dur="10s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#5ee7df" transform="translate(200,30)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="200,30; 250,60; 300,30; 250,0; 200,30" dur="12s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#667eea" transform="translate(300,70)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="300,70; 350,40; 400,70; 350,100; 300,70" dur="9s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#4facfe" transform="translate(400,40)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="400,40; 450,70; 500,40; 450,10; 400,40" dur="11s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#00f2fe" transform="translate(500,60)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="500,60; 550,30; 600,60; 550,90; 500,60" dur="13s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#5ee7df" transform="translate(600,25)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="600,25; 650,55; 700,25; 650,-5; 600,25" dur="7s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" fill="#667eea" transform="translate(700,55)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="700,55; 750,25; 800,55; 750,85; 700,55" dur="14s" repeatCount="indefinite"/>
+    </use>
+    
+    <!-- Connecting Lines Animation -->
+    <g opacity="0.3">
+      <line x1="100" y1="50" x2="200" y2="30" stroke="#4facfe" stroke-width="1">
+        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="200" y1="30" x2="300" y2="70" stroke="#00f2fe" stroke-width="1">
+        <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite"/>
+      </line>
+      <line x1="300" y1="70" x2="400" y2="40" stroke="#5ee7df" stroke-width="1">
+        <animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite"/>
+      </line>
+      <line x1="500" y1="60" x2="600" y2="25" stroke="#667eea" stroke-width="1">
+        <animate attributeName="opacity" values="0.1;0.3;0.1" dur="6s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    
+    <!-- Text Content -->
+    <text x="400" y="80" text-anchor="middle" fill="white" font-size="28" font-weight="bold" font-family="Arial">
+      Hi there 👋, I'm Khôi
+    </text>
+    <text x="400" y="110" text-anchor="middle" fill="white" font-size="16" opacity="0.9" font-family="Arial">
+      Frontend Developer | React Enthusiast
+    </text>
+  </svg>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/anhkhoi121334">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:khoi21007@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/anhkhoi121334">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+
 </div>
-
-<script>
-// 3D Particle Background
-document.addEventListener('DOMContentLoaded', function() {
-  const canvas = document.getElementById('particleCanvas');
-  const ctx = canvas.getContext('2d');
-  let width = canvas.width = canvas.offsetWidth;
-  let height = canvas.height = canvas.offsetHeight;
-  
-  // Handle window resize
-  window.addEventListener('resize', function() {
-    width = canvas.width = canvas.offsetWidth;
-    height = canvas.height = canvas.offsetHeight;
-  });
-
-  // Particle system
-  const particles = [];
-  const particleCount = Math.min(100, Math.floor(width * height / 2000));
-  const colors = ['#4facfe', '#00f2fe', '#5ee7df', '#667eea'];
-
-  // Create particles
-  for (let i = 0; i < particleCount; i++) {
-    particles.push({
-      x: Math.random() * width,
-      y: Math.random() * height,
-      size: Math.random() * 3 + 1,
-      color: colors[Math.floor(Math.random() * colors.length)],
-      speedX: Math.random() * 2 - 1,
-      speedY: Math.random() * 2 - 1
-    });
-  }
-
-  // Animation loop
-  function animate() {
-    ctx.clearRect(0, 0, width, height);
-    
-    // Update and draw particles
-    particles.forEach(particle => {
-      // Move particles
-      particle.x += particle.speedX;
-      particle.y += particle.speedY;
-      
-      // Bounce off edges
-      if (particle.x < 0 || particle.x > width) particle.speedX *= -1;
-      if (particle.y < 0 || particle.y > height) particle.speedY *= -1;
-      
-      // Draw particle
-      ctx.beginPath();
-      ctx.arc(particle.x, particle.y, particle.size, 0, Math.PI * 2);
-      ctx.fillStyle = particle.color;
-      ctx.fill();
-      
-      // Draw connections
-      particles.forEach(otherParticle => {
-        const dx = particle.x - otherParticle.x;
-        const dy = particle.y - otherParticle.y;
-        const distance = Math.sqrt(dx * dx + dy * dy);
-        
-        if (distance < 100) {
-          ctx.beginPath();
-          ctx.strokeStyle = `${particle.color}${Math.round((1 - distance/100) * 0.3 * 255).toString(16).padStart(2, '0')}`;
-          ctx.lineWidth = 0.5;
-          ctx.moveTo(particle.x, particle.y);
-          ctx.lineTo(otherParticle.x, otherParticle.y);
-          ctx.stroke();
-        }
-      });
-    });
-    
-    requestAnimationFrame(animate);
-  }
-  
-  // Start animation
-  animate();
-});
-</script>
 
 <p align="center">
   Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
