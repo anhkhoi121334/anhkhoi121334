@@ -11,16 +11,20 @@
       </linearGradient>
     </defs>
 
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="url(#bgGradient)" rx="10"/>
+ <!-- Background -->
+<rect width="100%" height="100%" fill="url(#bgGradient)" rx="10"/>
 
-    <!-- Text Content -->
-    <text x="400" y="85" text-anchor="middle" fill="white" font-size="26" font-weight="bold" font-family="Arial">
-      Hi there 👋, I'm Khôi
-    </text>
-    <text x="400" y="115" text-anchor="middle" fill="#cbd5f5" font-size="18" font-family="Arial">
-      Lương Anh Khôi • Frontend Developer (ReactJS)
-    </text>
+<!-- Text Content -->
+<text x="400" y="85" text-anchor="middle" fill="white"
+      font-size="26" font-weight="bold" font-family="Arial">
+  <tspan x="400" dy="0">Hi there 👋, I'm Khôi</tspan>
+</text>
+
+<text x="400" y="115" text-anchor="middle" fill="#cbd5f5"
+      font-size="18" font-family="Arial">
+  <tspan x="400" dy="0">Lương Anh Khôi • Frontend Developer (ReactJS)</tspan>
+</text>
+
   </svg>
 
   <!-- Social Links -->
