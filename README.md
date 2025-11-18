@@ -9,8 +9,18 @@
         <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
       </linearGradient>
-      
-     
+    </defs>
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="url(#bgGradient)" rx="10"/>
+
+    <!-- Text Content -->
+    <text x="400" y="85" text-anchor="middle" fill="white" font-size="26" font-weight="bold" font-family="Arial">
+      Hi there 👋, I'm Khôi
+    </text>
+    <text x="400" y="115" text-anchor="middle" fill="#cbd5f5" font-size="18" font-family="Arial">
+      Lương Anh Khôi • Frontend Developer (ReactJS)
+    </text>
   </svg>
 
   <!-- Social Links -->
@@ -73,14 +83,14 @@
 [![Sneaker Store](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://elegant-sundae-416b3f.netlify.app/)
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/duancanhan2)
 
-A modern e-commerce platform for sneaker enthusiasts with full shopping cart functionality, user authentication, and responsive design.
+A modern e-commerce mini project to practice ReactJS and state management.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API  
 - **Features**:
-  - Product catalog with filtering and search
-  - Shopping cart and checkout process
-  - User authentication and order history
-  - Responsive design for all devices
+  - Product list & detail pages  
+  - Add/remove items in cart  
+  - Basic user login/register flow  
+  - Responsive layout for multiple devices  
 
 ---
 
@@ -88,30 +98,30 @@ A modern e-commerce platform for sneaker enthusiasts with full shopping cart fun
 [![GitHub FE](https://img.shields.io/badge/Frontend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/font-end)
 [![GitHub BE](https://img.shields.io/badge/Backend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/back-end)
 
-A full-stack e-commerce solution for electronic products with separate frontend and backend architecture.
+A simple full-stack e-commerce project to practice separating frontend and backend.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB  
 - **Features**:
-  - Product management system
-  - Shopping cart functionality
-  - User authentication
-  - Order processing system
+  - Product listing & detail page  
+  - Basic cart flow  
+  - Simple authentication  
+  - Create & store orders in backend  
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhkhoi121334&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi121334&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334/github-readme-stats">
+  <a href="https://github.com/anhkhoi121334">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoi121334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
   <a href="https://github.com/anhkhoi121334">
@@ -124,7 +134,7 @@ A full-stack e-commerce solution for electronic products with separate frontend 
 ## 🌐 Let's Connect
 
 <div align="center">
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+  <p>Nếu anh/chị quan tâm đến các dự án của em hoặc cần hỗ trợ Frontend, em rất sẵn sàng trao đổi thêm ạ.</p>
   
   <a href="mailto:khoi21007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -136,14 +146,7 @@ A full-stack e-commerce solution for electronic products with separate frontend 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <p>📫 How to reach me: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
-  
-  <p>💼 Let's work together on your next project!</p>
+  <p>📫 Email: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <p>Last Updated: November 18, 2025</p>
-</div>
