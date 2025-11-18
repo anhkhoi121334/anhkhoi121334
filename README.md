@@ -1,31 +1,8 @@
-<!-- GitHub Compatible Header with CSS Animation -->
+<!-- GitHub Compatible Header -->
 <div align="center">
   
-  <!-- Animated SVG Background -->
-  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-
- <!-- Background -->
-<rect width="100%" height="100%" fill="url(#bgGradient)" rx="10"/>
-
-<!-- Text Content -->
-<text x="400" y="85" text-anchor="middle" fill="white"
-      font-size="26" font-weight="bold" font-family="Arial">
-  <tspan x="400" dy="0">Hi there 👋, I'm Khôi</tspan>
-</text>
-
-<text x="400" y="115" text-anchor="middle" fill="#cbd5f5"
-      font-size="18" font-family="Arial">
-  <tspan x="400" dy="0">Lương Anh Khôi • Frontend Developer (ReactJS)</tspan>
-</text>
-
-  </svg>
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kh%C3%B4i;Frontend+Developer+%7C+React+Enthusiast" alt="Typing SVG" />
 
   <!-- Social Links -->
   <p>
@@ -46,6 +23,14 @@
   </p>
 
 </div>
+
+<p align="center">
+  Sinh viên mới tốt nghiệp với niềm đam mê phát triển giao diện web hiện đại.<br/>
+  Chuyên xây dựng các ứng dụng web responsive, tối ưu trải nghiệm người dùng và hiệu suất cao.<br/>
+  Luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng phát triển.
+</p>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -79,14 +64,14 @@
 [![Sneaker Store](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://elegant-sundae-416b3f.netlify.app/)
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/duancanhan2)
 
-A modern e-commerce mini project to practice ReactJS and state management.
+A modern e-commerce platform for sneaker enthusiasts with full shopping cart functionality, user authentication, and responsive design.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API  
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, REST API
 - **Features**:
-  - Product list & detail pages  
-  - Add/remove items in cart  
-  - Basic user login/register flow  
-  - Responsive layout for multiple devices  
+  - Product catalog with filtering and search
+  - Shopping cart and checkout process
+  - User authentication and order history
+  - Responsive design for all devices
 
 ---
 
@@ -94,30 +79,30 @@ A modern e-commerce mini project to practice ReactJS and state management.
 [![GitHub FE](https://img.shields.io/badge/Frontend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/font-end)
 [![GitHub BE](https://img.shields.io/badge/Backend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhkhoi121334/my-phim/tree/master/back-end)
 
-A simple full-stack e-commerce project to practice separating frontend and backend.
+A full-stack e-commerce solution for electronic products with separate frontend and backend architecture.
 
-- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB  
+- **Tech Stack**: ReactJS, TailwindCSS, Zustand, Node.js, Express, MongoDB
 - **Features**:
-  - Product listing & detail page  
-  - Basic cart flow  
-  - Simple authentication  
-  - Create & store orders in backend  
+  - Product management system
+  - Shopping cart functionality
+  - User authentication
+  - Order processing system
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334">
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhkhoi121334&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anhkhoi121334">
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi121334&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anhkhoi121334">
+  <a href="https://github.com/anhkhoi121334/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoi121334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
   <a href="https://github.com/anhkhoi121334">
@@ -130,7 +115,7 @@ A simple full-stack e-commerce project to practice separating frontend and backe
 ## 🌐 Let's Connect
 
 <div align="center">
-  <p>Nếu anh/chị quan tâm đến các dự án của em hoặc cần hỗ trợ Frontend, em rất sẵn sàng trao đổi thêm ạ.</p>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
   
   <a href="mailto:khoi21007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -142,7 +127,14 @@ A simple full-stack e-commerce project to practice separating frontend and backe
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <p>📫 Email: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
+  <p>📫 How to reach me: <a href="mailto:khoi21007@gmail.com">khoi21007@gmail.com</a></p>
+  
+  <p>💼 Let's work together on your next project!</p>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anhkhoi121334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <p>Last Updated: November 18, 2025</p>
+</div>
